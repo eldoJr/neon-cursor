@@ -1,6 +1,6 @@
 # Cursor Trail Effect 💡✨
 
-Welcome to Neon Cursor, a fun and interactive web app that brings a futuristic touch to your browsing experience by adding a vibrant neon glow effect to your mouse cursor. Customize the look and feel of your cursor and make your website stand out with colorful animations!
+Welcome to Neon Cursor, a fun and interactive web app that brings a futuristic touch to your browsing experience by adding a vibrant neon glow effect to your mouse cursor. Customize the look and feel of your cursor and make your website stand out with colorful animations.
 
 
 ## 📝 Description
